@@ -1040,7 +1040,7 @@ animation: dude .34005s 1000 forwards;
   }
   .bloom-nav-b{
   background-color: #fff !important;
-  border: solid 1px #fff !important;
+  border: solid 1px #eee !important;
   }
   .bloom-nav-b > ul li{
     margin-bottom: 15px !important;
